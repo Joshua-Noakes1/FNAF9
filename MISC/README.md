@@ -1,4 +1,4 @@
 # fnaf9 - MISC
 
 ## Notes
-This folder contains misc info
+This folder contains misc info.
