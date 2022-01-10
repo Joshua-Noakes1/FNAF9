@@ -1,10 +1,13 @@
 # fnaf9 - FazerBlast
 
+## Notes
+Internal images and files are called spaces
 ## Images
 
 ### Lobby
 
 ![lobby1](https://raw.githubusercontent.com/Joshua-Noakes1/FNAF9/main/MAPS/FazerBlast/images/fazerblast_lobby1.png)
+![roxy1](https://raw.githubusercontent.com/Joshua-Noakes1/FNAF9/main/MISC/images/fmodel_roxytag.png)
 
 ## Levels
 
