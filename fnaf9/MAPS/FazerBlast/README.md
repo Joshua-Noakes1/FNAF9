@@ -6,8 +6,8 @@ Internal images and files are called spaces
 
 ### Lobby
 
-![lobby1](https://raw.githubusercontent.com/Joshua-Noakes1/FNAF9/main/MAPS/FazerBlast/images/fazerblast_lobby1.png)
-![roxy1](https://raw.githubusercontent.com/Joshua-Noakes1/FNAF9/main/MISC/images/fmodel_roxytag.png)
+![lobby1](https://raw.githubusercontent.com/Joshua-Noakes1/FNAF9/main/fnaf9/MAPS/FazerBlast/images/fazerblast_lobby1.png)
+![roxy1](https://raw.githubusercontent.com/Joshua-Noakes1/FNAF9/main/fnaf9/MISC/images/fmodel_roxytag.png)
 
 ## Levels
 
